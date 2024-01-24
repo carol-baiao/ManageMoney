@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+}
+
+.header-box {
+    width: 100vw;
+    height: 10vh;
+    display: flex;
+    justify-content: flex-end;
+    background-color: #098E03;
+}
+
+.menu-links {
+    width: 30%;
+    height: auto;
+    display: flex;
+    align-items: center;
+}
+
+nav {
+    display: inline-flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+a {
+    list-style: none;
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+}
